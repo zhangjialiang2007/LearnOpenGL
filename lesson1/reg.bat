@@ -1,0 +1,1 @@
+setx Lesson1 %CD%
